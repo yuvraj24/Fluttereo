@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'button.dart';
+import 'drawer.dart';
 import 'form.dart';
 import 'gridview.dart';
 import 'listview.dart';
@@ -51,6 +52,7 @@ class _HomeScreenState extends State<HomeScreen> {
           renderViews('ListView', new ListViewDemo()),
           renderViews('GridView', new GridViewDemo()),
           renderViews('Forms', new FormDemo()),
+          renderViews('Navigation Drawer', new NavigationDrawerDemo()),
         ],
       ),
     );
