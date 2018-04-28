@@ -1,8 +1,13 @@
-# flutter_demo
+# Flutter
 
-A new Flutter application.
+A new Flutter application that showcases the use of basic widgets like button, Listview, Gridview , EditText , Forms.
 
 ## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+You can check my following Medium articles that talks indepth about Flutter and its usage,
+
+* <a href="https://medium.com/@yuvrajpandey24/getting-started-with-flutter-192c19940f34">Getting Started with Flutter</a>
+
+* <a href="https://medium.com/@yuvrajpandey24/working-with-raised-button-in-flutter-6f5c0f71aab3">Working with Raised Button in Flutter</a>
+
+
