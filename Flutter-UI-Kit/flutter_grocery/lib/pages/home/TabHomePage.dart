@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_grocery/pages/account/AccountsPage.dart';
 import 'package:flutter_grocery/pages/cart/CartDetailsPage.dart';
-import 'package:flutter_grocery/pages/grocery_list/list/GroceryViewList.dart';
 import 'package:flutter_grocery/pages/home/HomePage.dart';
 import 'package:flutter_grocery/pages/orders/OrdersPage.dart';
 import 'package:flutter_grocery/util/Constant.dart';
