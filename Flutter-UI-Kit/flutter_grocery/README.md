@@ -2,7 +2,7 @@
 
 The Flutter-Grocery project demonstrates a UI Kit implementation for an online Grocery booking app built with Flutter.
 <br></br>
-<img src="https://github.com/yuvraj24/Fluttereo/blob/master/Flutter-UI-Kit/flutter_grocery/assets/screenshots/grocery.jpg" height=600 width=1000 />
+<img src="https://github.com/yuvraj24/Fluttereo/blob/master/Flutter-UI-Kit/flutter_grocery/assets/screenshots/grocery.jpg" height=550 width=900 />
 
 The UI Design Kit covers design's for both Android and IOS platforms.
 
