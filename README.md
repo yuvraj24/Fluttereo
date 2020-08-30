@@ -3,7 +3,7 @@ This repository explores various fundamentals of Flutter from scratch developed 
 
 ## Flutter Demos
 This project illustrates various basic building blocks of Flutter along with sample code of implementation. <br>
-<a href="https://github.com/yuvraj24/Fluttereo/tree/master/Flutter-Demo">Click here</a>
+<a href="https://github.com/yuvraj24/Fluttereo/tree/master/Flutter-Demo">View Project</a>
 
 ## Flutter UI Kit
 ### 1. Flutter-Grocery
