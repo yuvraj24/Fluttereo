@@ -39,7 +39,7 @@ class NavigationDrawerState extends State<NavigationDrawerDemo> {
 
   @override
   Widget build(BuildContext context) {
-    var drawerOptions = [];
+    var drawerOptions = <Widget>[];
     for (var i = 0; i < drawerItems.length; i++) {
       var d = drawerItems[i];
       drawerOptions.add(new ListTile(
