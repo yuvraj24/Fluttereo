@@ -1,6 +1,15 @@
 # Fluttereo
 This repository explores various fundamentals of Flutter from scratch developed in Dart with Android Studio & Visual Code.
 
+```
+If you like the work then don't forget to hit that ⭐ button to show some appreciation & love
+for this project as your token of love does wonders.
+```
+
+## Spread Your ❤️
+[![GitHub followers](https://img.shields.io/github/followers/yuvraj24.svg?style=social&label=Follow)](https://github.com/yuvraj24)  [![Twitter Follow](https://img.shields.io/twitter/follow/yuvrajpy24.svg?style=social)](https://twitter.com/yuvrajpy24)
+<br>
+
 ## Flutter Demos
 This project illustrates various basic building blocks of Flutter along with sample code of implementation. <br>
 <a href="https://github.com/yuvraj24/Fluttereo/tree/master/Flutter-Demo">View Project</a>
