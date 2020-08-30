@@ -6,6 +6,8 @@ This project illustrates various basic building blocks of Flutter along with sam
 <a href="https://github.com/yuvraj24/Fluttereo/tree/master/Flutter-Demo">View Project</a>
 
 ## Flutter UI Kit
+This project will include various Design UI Kit implementation for variety of platforms & services.
+
 ### 1. Flutter-Grocery
 The Flutter-Grocery project demonstrates a UI Kit implementation for an online Grocery booking app built with Flutter. <br> 
 <a href="https://github.com/yuvraj24/Fluttereo/tree/master/Flutter-UI-Kit/flutter_grocery">Click here</a> <br>
