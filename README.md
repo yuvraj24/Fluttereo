@@ -5,6 +5,9 @@ This repository explores various fundamentals of Flutter from scratch developed 
 If you like the work then don't forget to hit that ⭐ button to show some appreciation & love
 for this project as your token of love does wonders.
 ```
+<br>
+
+<img src="https://github.com/yuvraj24/Fluttereo/blob/master/Flutter-UI-Kit/flutter_grocery/assets/screenshots/flutter.jpg" height=550 width=1000 />
 
 ## Spread Your ❤️
 [![GitHub followers](https://img.shields.io/github/followers/yuvraj24.svg?style=social&label=Follow)](https://github.com/yuvraj24)  [![Twitter Follow](https://img.shields.io/twitter/follow/yuvrajpy24.svg?style=social)](https://twitter.com/yuvrajpy24)
